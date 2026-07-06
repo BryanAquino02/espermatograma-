@@ -1,4 +1,4 @@
-# Acrosom.ai — Demo de conteo espermático
+# espermia — Demo de conteo espermático
 
 Interfaz web para probar el modelo YOLOv8 de detección/conteo de
 espermatozoides, clusters y pinheads.
